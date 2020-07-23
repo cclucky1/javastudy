@@ -17,5 +17,6 @@ public class DemoAliTime {
     public static void main(String[] args) {
         DemoAliTime t = new DemoAliTime();
         t.t2();
+        System.out.println(t);
     }
 }
