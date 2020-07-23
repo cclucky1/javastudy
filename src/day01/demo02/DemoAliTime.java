@@ -19,5 +19,6 @@ public class DemoAliTime {
         t.t2();
         System.out.println(t);
         System.out.println("sadadas");
+        System.out.println("test");
     }
 }
