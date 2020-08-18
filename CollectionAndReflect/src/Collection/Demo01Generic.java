@@ -19,7 +19,7 @@ public class Demo01Generic {
     private static void show01() {
         ArrayList list = new ArrayList();
         list.add("哈哈哈");
-        list.add("1744710225");
+        list.add("1111111111");
         list.add("abcdef");
         list.add(1);
         System.out.println(list);

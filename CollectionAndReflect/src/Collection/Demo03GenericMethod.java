@@ -11,7 +11,7 @@ public class Demo03GenericMethod {
         传递什么类型，泛型就是什么类型
          */
         gm.method01("CCCChen");//String
-        gm.method01(1744710225);//int
+        gm.method01(1111111111);//int
         gm.method01(true);//boolean
 
         gm.method02("静态方法不建议创建对象使用");

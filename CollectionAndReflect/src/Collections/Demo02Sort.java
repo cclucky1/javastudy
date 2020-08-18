@@ -44,7 +44,7 @@ public class Demo02Sort {
         ArrayList<Person> list03 = new ArrayList<>();
         list03.add(new Person("CCCChen",21));
         list03.add(new Person("Cc",18));
-        list03.add(new Person("许琛",20));
+        list03.add(new Person("你猜",20));
 
         Collections.sort(list03);
         System.out.println(list03);

@@ -29,10 +29,10 @@ public class Demo01List {
         List<String> list = new ArrayList<>();
         //使用add方法往集合中添加元素1
         list.add("CCCChen");
-        list.add("19991015");
-        list.add("1744710225");
-        list.add("17560910150");
-        list.add("jzkadw");
+        list.add("11111111");
+        list.add("1111111111");
+        list.add("11111111111");
+        list.add("QWERTY");
 
 //        String s3 = list.get(3);
 //        System.out.println(s3);
@@ -43,7 +43,7 @@ public class Demo01List {
         System.out.println(remove);
 
         //在指定索引处添加元素
-        list.add(3,"17560910150");
+        list.add(3,"11111111111");
 
         System.out.println("===============for循环遍历===============");
 
