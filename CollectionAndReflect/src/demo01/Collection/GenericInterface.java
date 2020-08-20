@@ -1,4 +1,4 @@
-package Collection;
+package demo01.Collection;
 /*
 定义含有泛型的接口
  */

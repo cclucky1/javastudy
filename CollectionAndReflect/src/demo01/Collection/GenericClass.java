@@ -1,4 +1,4 @@
-package Collection;
+package demo01.Collection;
 /*
     定义一个含有泛型的类，模拟Array List集合
     泛型是一个未知的数据类型，当我们不确定使用什么数据类型的时候，可以使用泛型

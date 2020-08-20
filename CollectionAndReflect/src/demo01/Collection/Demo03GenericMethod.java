@@ -1,4 +1,4 @@
-package Collection;
+package demo01.Collection;
 /*
 测试含有泛型的方法
  */

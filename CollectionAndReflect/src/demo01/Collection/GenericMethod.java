@@ -1,4 +1,4 @@
-package Collection;
+package demo01.Collection;
 
 /*
     定义含有泛型的方法：泛型定义在方法的修饰符和返回值类型之间

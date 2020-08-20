@@ -15,7 +15,7 @@ import java.util.List;
  */
 public class Demo01JDK9 {
     public static void main(String[] args) {
-        List.of("1");//Cannot resolve method 'of' in 'List'
+        //List.of("1");//Cannot resolve method 'of' in 'List'
         //打扰了我是jdk8,不学了 Commit睡觉
     }
 }

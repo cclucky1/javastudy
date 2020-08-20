@@ -7,7 +7,7 @@ public class DouDiZhu {
     public static void main(String[] args) {
         ArrayList<String> poker = new ArrayList<>();
         String[] colors = {"♥", "♠", "♣", "♦"};
-        String[] no = {"2", "A", "K", "Q", "J", "10", "9", "8", "7", "6", "5", "4", "3",};
+        String[] no = {"2", "A", "K", "Q", "J", "10", "9", "8", "7", "6", "5", "4", "3"};
 
         poker.add("大王");
         poker.add("小王");
