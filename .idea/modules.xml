@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CollectionAndReflect/CollectionAndReflect.iml" filepath="$PROJECT_DIR$/CollectionAndReflect/CollectionAndReflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionAndThread/ExceptionAndThread.iml" filepath="$PROJECT_DIR$/ExceptionAndThread/ExceptionAndThread.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListAndSet/ListAndSet.iml" filepath="$PROJECT_DIR$/ListAndSet/ListAndSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/javastudy.iml" filepath="$PROJECT_DIR$/javastudy.iml" />
